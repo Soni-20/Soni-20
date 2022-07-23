@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MCA**
 
-<h3 align="left">Connect with me:Soni-20</h3>
+<h3 align="left">Connect with me:sonisebastian99@gmail.com</h3>
 <p align="left">
 </p>
 
