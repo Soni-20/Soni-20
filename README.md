@@ -1,5 +1,5 @@
 
- <img src="git1.gif" width="1000" height="500" align="center">
+ <img src="git1.gif" width="500" height="500" align="center">
 <h1 align="center">Hi 👋, I'm Soni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
