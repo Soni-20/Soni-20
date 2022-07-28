@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Soni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
- <img src="git.png" width="500" height="500">
+ <img src="git.png" width="500" height="500" align=center>
 
 - 🌱 I’m currently learning **MCA**
 
